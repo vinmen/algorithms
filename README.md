@@ -1,2 +1,2 @@
 # algorithms
-Data Structures &amp; Algorithms in C
+Data Structures &amp; Algorithms in C++
